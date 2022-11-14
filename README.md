@@ -2,7 +2,7 @@
 
 A simple typing speed test application
 
-visit here https://.github.io/FlashType/
+visit here https://lmarcdev.github.io/FlashType/
 
 ## Libraries used
 
